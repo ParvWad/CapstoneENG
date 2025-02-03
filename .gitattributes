@@ -1,0 +1,17 @@
+P:/unity/projects/Capstone/Capstone/Assets/Art/Models/Englg[[:space:]]again.glb filter=lfs diff=lfs merge=lfs -text
+P:/unity/projects/Capstone/Capstone/Library/Artifacts/2d/2dfae4f8d441f5bb1b76fb7e54929192 filter=lfs diff=lfs merge=lfs -text
+P:/unity/projects/Capstone/Capstone/Library/PackageCache/com.unity.burst/.Runtime/burst-llvm-16-arm64.dll filter=lfs diff=lfs merge=lfs -text
+P:/unity/projects/Capstone/Capstone/Library/PackageCache/com.unity.burst/.Runtime/burst-llvm-16.dll filter=lfs diff=lfs merge=lfs -text
+P:/unity/projects/Capstone/Capstone/Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+P:/unity/projects/Capstone/Capstone/Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+P:/unity/projects/Capstone/Capstone/Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-16.so filter=lfs diff=lfs merge=lfs -text
+P:/unity/projects/Capstone/Capstone/Library/PackageCache/com.unity.burst/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
+Capstone/Assets/Art/Models/Englg[[:space:]]again.glb filter=lfs diff=lfs merge=lfs -text
+Capstone/Library/Artifacts/2d/2dfae4f8d441f5bb1b76fb7e54929192 filter=lfs diff=lfs merge=lfs -text
+Capstone/Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+*.glb filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+Capstone/Library/Artifacts/2d/* filter=lfs diff=lfs merge=lfs -text
