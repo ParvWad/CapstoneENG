@@ -1,16 +1,16 @@
 {
   "context": {
-    "projectPath": "P:/unity/projects/Capstone/Capstone/Packages",
+    "projectPath": "C:/Users/shaft/OneDrive/Documents/CapstoneFIles/CapstoneENG/Capstone/Packages",
     "unityVersion": "6000.0.34f1"
   },
   "inputs": [
-    "P:\\unity\\projects\\Capstone\\Capstone\\Packages\\manifest.json",
-    "P:\\unity\\projects\\Capstone\\Capstone\\Packages\\packages-lock.json"
+    "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Packages\\manifest.json",
+    "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Packages\\packages-lock.json"
   ],
   "outputs": {
     "com.unity.ai.navigation@2.0.5": {
       "name": "com.unity.ai.navigation",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.ai.navigation",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.ai.navigation",
       "fingerprint": "9f76b145f0a8dd734ff2a4877f7f7edb83b7f62c",
       "editorCompatibility": "2023.2.0a18",
       "version": "2.0.5",
@@ -18,7 +18,7 @@
     },
     "com.unity.cloud.draco@5.1.8": {
       "name": "com.unity.cloud.draco",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.cloud.draco",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.cloud.draco",
       "fingerprint": "2ed1ef9a26770ad8bdba55fa0295e29bb27bc4bd",
       "editorCompatibility": "2020.3.0a1",
       "version": "5.1.8",
@@ -26,7 +26,7 @@
     },
     "com.unity.cloud.gltfast@6.10.1": {
       "name": "com.unity.cloud.gltfast",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.cloud.gltfast",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.cloud.gltfast",
       "fingerprint": "150098ce9c6f151b50cfeaa0c83d9a00064e1041",
       "editorCompatibility": "2020.3.48f1",
       "version": "6.10.1",
@@ -34,7 +34,7 @@
     },
     "com.unity.collab-proxy@2.6.0": {
       "name": "com.unity.collab-proxy",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.collab-proxy",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.collab-proxy",
       "fingerprint": "001b54a8988a14785c8e209d6c788bb15f9e58cf",
       "editorCompatibility": "2021.3.0f1",
       "version": "2.6.0",
@@ -42,14 +42,14 @@
     },
     "com.unity.feature.development@1.0.2": {
       "name": "com.unity.feature.development",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.feature.development",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.feature.development",
       "fingerprint": "767aadbc6eb72681a4ca807c8fa248e0230a0cef",
       "version": "1.0.2",
       "source": "builtin"
     },
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.multiplayer.center",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.multiplayer.center",
       "fingerprint": "f502d8ac613fa076192423e73892fbd89eb4049b",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
@@ -57,7 +57,7 @@
     },
     "com.unity.timeline@1.8.7": {
       "name": "com.unity.timeline",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.timeline",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.timeline",
       "fingerprint": "c58b4ee65782ad38338e29f7ee67787cb6998f04",
       "editorCompatibility": "2019.3.0a1",
       "version": "1.8.7",
@@ -65,7 +65,7 @@
     },
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.ugui",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.ugui",
       "fingerprint": "fd5da3b4bec8d043b01c30177bd62059c5fa36d0",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
@@ -73,7 +73,7 @@
     },
     "com.unity.visualscripting@1.9.5": {
       "name": "com.unity.visualscripting",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.visualscripting",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.visualscripting",
       "fingerprint": "1b53f46e931bea668e53f1feb0ac9138170c9455",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.9.5",
@@ -81,7 +81,7 @@
     },
     "com.unity.xr.arcore@6.0.3": {
       "name": "com.unity.xr.arcore",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.xr.arcore",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.xr.arcore",
       "fingerprint": "2332e58a015519e03ae3adf094476ea99e197546",
       "editorCompatibility": "6000.0.0a1",
       "version": "6.0.3",
@@ -89,7 +89,7 @@
     },
     "com.unity.xr.arfoundation@6.0.3": {
       "name": "com.unity.xr.arfoundation",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.xr.arfoundation",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.xr.arfoundation",
       "fingerprint": "fedd228b66cccf5f6f8be07328d36f248f41e8c7",
       "editorCompatibility": "6000.0.0a1",
       "version": "6.0.3",
@@ -97,227 +97,227 @@
     },
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.accessibility",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.accessibility",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.ai@1.0.0": {
       "name": "com.unity.modules.ai",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.ai",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.ai",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.androidjni@1.0.0": {
       "name": "com.unity.modules.androidjni",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.androidjni",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.androidjni",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.animation@1.0.0": {
       "name": "com.unity.modules.animation",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.animation",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.animation",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.assetbundle@1.0.0": {
       "name": "com.unity.modules.assetbundle",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.assetbundle",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.assetbundle",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.audio@1.0.0": {
       "name": "com.unity.modules.audio",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.audio",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.audio",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.cloth@1.0.0": {
       "name": "com.unity.modules.cloth",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.cloth",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.cloth",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.director@1.0.0": {
       "name": "com.unity.modules.director",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.director",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.director",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.imageconversion@1.0.0": {
       "name": "com.unity.modules.imageconversion",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.imageconversion",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.imageconversion",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.imgui@1.0.0": {
       "name": "com.unity.modules.imgui",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.imgui",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.imgui",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.jsonserialize@1.0.0": {
       "name": "com.unity.modules.jsonserialize",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.jsonserialize",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.particlesystem@1.0.0": {
       "name": "com.unity.modules.particlesystem",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.particlesystem",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.particlesystem",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.physics@1.0.0": {
       "name": "com.unity.modules.physics",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.physics",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.physics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.physics2d@1.0.0": {
       "name": "com.unity.modules.physics2d",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.physics2d",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.physics2d",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.screencapture@1.0.0": {
       "name": "com.unity.modules.screencapture",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.screencapture",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.screencapture",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.terrain@1.0.0": {
       "name": "com.unity.modules.terrain",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.terrain",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.terrain",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.terrainphysics@1.0.0": {
       "name": "com.unity.modules.terrainphysics",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.terrainphysics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.tilemap@1.0.0": {
       "name": "com.unity.modules.tilemap",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.tilemap",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.tilemap",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.ui@1.0.0": {
       "name": "com.unity.modules.ui",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.ui",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.ui",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.uielements@1.0.0": {
       "name": "com.unity.modules.uielements",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.uielements",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.uielements",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.umbra@1.0.0": {
       "name": "com.unity.modules.umbra",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.umbra",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.umbra",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unityanalytics@1.0.0": {
       "name": "com.unity.modules.unityanalytics",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.unityanalytics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequest@1.0.0": {
       "name": "com.unity.modules.unitywebrequest",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
       "name": "com.unity.modules.unitywebrequestassetbundle",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestaudio@1.0.0": {
       "name": "com.unity.modules.unitywebrequestaudio",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequesttexture@1.0.0": {
       "name": "com.unity.modules.unitywebrequesttexture",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestwww@1.0.0": {
       "name": "com.unity.modules.unitywebrequestwww",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.vehicles@1.0.0": {
       "name": "com.unity.modules.vehicles",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.vehicles",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.vehicles",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.video@1.0.0": {
       "name": "com.unity.modules.video",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.video",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.video",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.vr@1.0.0": {
       "name": "com.unity.modules.vr",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.vr",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.vr",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.wind@1.0.0": {
       "name": "com.unity.modules.wind",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.wind",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.wind",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.xr@1.0.0": {
       "name": "com.unity.modules.xr",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.xr",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.xr",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.subsystems@1.0.0": {
       "name": "com.unity.modules.subsystems",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.subsystems",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.subsystems",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.hierarchycore@1.0.0": {
       "name": "com.unity.modules.hierarchycore",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.modules.hierarchycore",
       "version": "1.0.0",
       "source": "builtin"
     },
+    "com.unity.editorcoroutines@1.0.0": {
+      "name": "com.unity.editorcoroutines",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.editorcoroutines",
+      "fingerprint": "7d48783e7b8cfcee5f8ef9ba787ed0d9dad4ebca",
+      "editorCompatibility": "2018.1.0a1",
+      "version": "1.0.0",
+      "source": "registry"
+    },
     "com.unity.inputsystem@1.11.2": {
       "name": "com.unity.inputsystem",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.inputsystem",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.inputsystem",
       "fingerprint": "3c4a97c3950fef77960981e0fe90613de6e512ee",
       "editorCompatibility": "2019.4.0a1",
       "version": "1.11.2",
       "source": "registry"
     },
-    "com.unity.mathematics@1.3.2": {
-      "name": "com.unity.mathematics",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.mathematics",
-      "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
-      "editorCompatibility": "2021.3.0a1",
-      "version": "1.3.2",
-      "source": "registry"
-    },
     "com.unity.xr.core-utils@2.5.1": {
       "name": "com.unity.xr.core-utils",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.xr.core-utils",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.xr.core-utils",
       "fingerprint": "c0df0dd5bced783e855e63d640484ff72ea7dea8",
       "editorCompatibility": "2021.3.0f1",
       "version": "2.5.1",
@@ -325,23 +325,23 @@
     },
     "com.unity.xr.management@4.5.0": {
       "name": "com.unity.xr.management",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.xr.management",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.xr.management",
       "fingerprint": "3126858600e621b17ff9bfda920ebf34b9f2414c",
       "editorCompatibility": "2020.3.15f1",
       "version": "4.5.0",
       "source": "registry"
     },
-    "com.unity.editorcoroutines@1.0.0": {
-      "name": "com.unity.editorcoroutines",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.editorcoroutines",
-      "fingerprint": "7d48783e7b8cfcee5f8ef9ba787ed0d9dad4ebca",
-      "editorCompatibility": "2018.1.0a1",
-      "version": "1.0.0",
+    "com.unity.mathematics@1.3.2": {
+      "name": "com.unity.mathematics",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.mathematics",
+      "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.3.2",
       "source": "registry"
     },
     "com.unity.ide.visualstudio@2.0.22": {
       "name": "com.unity.ide.visualstudio",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.ide.visualstudio",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.ide.visualstudio",
       "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
       "editorCompatibility": "2019.4.25f1",
       "version": "2.0.22",
@@ -349,7 +349,7 @@
     },
     "com.unity.ide.rider@3.0.31": {
       "name": "com.unity.ide.rider",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.ide.rider",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.ide.rider",
       "fingerprint": "7921be93db40ec070fcb01ed82d1c3df1bbdddcd",
       "editorCompatibility": "2019.2.6f1",
       "version": "3.0.31",
@@ -357,7 +357,7 @@
     },
     "com.unity.performance.profile-analyzer@1.2.3": {
       "name": "com.unity.performance.profile-analyzer",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.performance.profile-analyzer",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.performance.profile-analyzer",
       "fingerprint": "a68e7bc849973d943853204178d08a2bc7656ffe",
       "editorCompatibility": "2020.3.0a1",
       "version": "1.2.3",
@@ -365,7 +365,7 @@
     },
     "com.unity.test-framework@1.4.5": {
       "name": "com.unity.test-framework",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.test-framework",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.test-framework",
       "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
       "editorCompatibility": "2019.4.0a10",
       "version": "1.4.5",
@@ -373,7 +373,7 @@
     },
     "com.unity.testtools.codecoverage@1.2.6": {
       "name": "com.unity.testtools.codecoverage",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.testtools.codecoverage",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.testtools.codecoverage",
       "fingerprint": "205a02cbcb39584f20b51c49b853047aceb3a3a7",
       "editorCompatibility": "2019.3.0a1",
       "version": "1.2.6",
@@ -381,7 +381,7 @@
     },
     "com.unity.burst@1.8.18": {
       "name": "com.unity.burst",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.burst",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.burst",
       "fingerprint": "616862665d8c8ffe643d505aebb5de2ee73b0ab0",
       "editorCompatibility": "2020.3.0a1",
       "version": "1.8.18",
@@ -389,7 +389,7 @@
     },
     "com.unity.collections@2.5.1": {
       "name": "com.unity.collections",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.collections",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.collections",
       "fingerprint": "56bff8827a7ef6d44fcee4f36e558a74da89c1a0",
       "editorCompatibility": "2022.3.11f1",
       "version": "2.5.1",
@@ -397,7 +397,7 @@
     },
     "com.unity.xr.legacyinputhelpers@2.1.11": {
       "name": "com.unity.xr.legacyinputhelpers",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers",
       "fingerprint": "a3936666e06871a5fd0461a69a4d99efb31a21c1",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.1.11",
@@ -405,7 +405,7 @@
     },
     "com.unity.settings-manager@2.0.1": {
       "name": "com.unity.settings-manager",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.settings-manager",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.settings-manager",
       "fingerprint": "56a930affa1e4462d3595b5c19a1c2a4bf2015d2",
       "editorCompatibility": "2018.4.0a1",
       "version": "2.0.1",
@@ -413,7 +413,7 @@
     },
     "com.unity.ext.nunit@2.0.5": {
       "name": "com.unity.ext.nunit",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.ext.nunit",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.ext.nunit",
       "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.5",
@@ -421,7 +421,7 @@
     },
     "com.unity.nuget.mono-cecil@1.11.4": {
       "name": "com.unity.nuget.mono-cecil",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.nuget.mono-cecil",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.nuget.mono-cecil",
       "fingerprint": "d6f9955a5d5f84d45442ff1ad0fb694cc6e2fd62",
       "editorCompatibility": "2018.4.0a1",
       "version": "1.11.4",
@@ -429,7 +429,7 @@
     },
     "com.unity.test-framework.performance@3.0.3": {
       "name": "com.unity.test-framework.performance",
-      "resolvedPath": "P:\\unity\\projects\\Capstone\\Capstone\\Library\\PackageCache\\com.unity.test-framework.performance",
+      "resolvedPath": "C:\\Users\\shaft\\OneDrive\\Documents\\CapstoneFIles\\CapstoneENG\\Capstone\\Library\\PackageCache\\com.unity.test-framework.performance",
       "fingerprint": "fb0dc592af8b524f1a06c50d7caf95552f1bcd2f",
       "editorCompatibility": "2020.3.0a1",
       "version": "3.0.3",
