@@ -20,7 +20,7 @@ public class ShowPath : MonoBehaviour
     private void Start()
     {
         path = new NavMeshPath();
-        line.enabled = false;
+        line.enabled = true;
     }
 
     // New method to update path from an external script (like your destination selector)
@@ -33,7 +33,7 @@ public class ShowPath : MonoBehaviour
         else
         {
             Debug.LogError("Path could not be calculated!");
-            line.enabled = false;
+            line.enabled = true;
         }
     }
 
