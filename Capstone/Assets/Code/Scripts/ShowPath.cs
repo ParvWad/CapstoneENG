@@ -8,8 +8,13 @@ public class ShowPath : MonoBehaviour
     public static ShowPath instance;
 
     public LineRenderer line;
-    public float LINE_HEIGHT_ABOVE_GROUND = 0.1f; // Line height above ground
+    public Transform userTransform;  // Assign the AR-tracked user position
+    public Transform destinationTransform; // Assign the destination dynamically
+    public float updateInterval = 1.0f; // Time in seconds to update path
+    public float LINE_HEIGHT_ABOVE_GROUND = 0.1f;
+
     private NavMeshPath path;
+    private float nextUpdateTime = 0f;
 
     void Awake()
     {
@@ -20,10 +25,18 @@ public class ShowPath : MonoBehaviour
     private void Start()
     {
         path = new NavMeshPath();
-        line.enabled = true;
+        line.enabled = false;
     }
 
-    // New method to update path from an external script (like your destination selector)
+    private void Update()
+    {
+        if (Time.time >= nextUpdateTime && userTransform != null && destinationTransform != null)
+        {
+            UpdatePath(userTransform.position, destinationTransform.position);
+            nextUpdateTime = Time.time + updateInterval;
+        }
+    }
+
     public void UpdatePath(Vector3 startPosition, Vector3 destination)
     {
         if (NavMesh.CalculatePath(startPosition, destination, NavMesh.AllAreas, path))
@@ -33,11 +46,10 @@ public class ShowPath : MonoBehaviour
         else
         {
             Debug.LogError("Path could not be calculated!");
-            line.enabled = true;
+            line.enabled = false;
         }
     }
 
-    // Draws the calculated path
     private void DrawPath(NavMeshPath path)
     {
         if (path.corners.Length < 2)
