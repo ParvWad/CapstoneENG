@@ -88,7 +88,6 @@ public class NavigationUIController : MonoBehaviour
         {
             settingsUI.SetActive(false);
         }
-
         poiList.RenderPOIs();
     }
 

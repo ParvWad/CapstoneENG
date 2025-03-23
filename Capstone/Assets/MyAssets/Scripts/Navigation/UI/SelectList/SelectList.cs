@@ -50,6 +50,7 @@ public class SelectList : MonoBehaviour
 
     public void RenderPOIs()
     {
+        PrepareAllData();
         // render list
         RenderList(pois);
         currentItemsTotal = pois;
