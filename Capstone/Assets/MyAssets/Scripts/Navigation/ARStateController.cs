@@ -13,7 +13,7 @@ public class ARStateController : MonoBehaviour
 
     private void Awake()
     {
-        Debug.Log("Awake called for arstatecontroller");
+        // Debug.Log("Awake called for arstatecontroller");
         instance = this;
         #if UNITY_EDITOR
         // Automatically "localize" in Editor mode for testing

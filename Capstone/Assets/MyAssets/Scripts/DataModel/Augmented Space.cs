@@ -19,10 +19,10 @@ public class AugmentedSpace : MonoBehaviour
     void Awake()
     {
         pois = augmentation.GetComponentsInChildren<POI>(true);
-        foreach (var poi in pois)
-        {
-            Debug.Log("Found POI: " + poi.poiName);
-        }
+        // foreach (var poi in pois)
+        // {
+        //     Debug.Log("Found POI: " + poi.poiName);
+        // }
     }
 
     // Returns POIs of this space.

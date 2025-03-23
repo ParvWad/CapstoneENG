@@ -171,7 +171,7 @@ public class NavigationUIController : MonoBehaviour
     {
         if (!NavigationController.instance.IsCurrentlyNavigating())
         {
-            Debug.Log("Not currently navigating IN NAVUICONTROLLER");
+//            Debug.Log("Not currently navigating IN NAVUICONTROLLER");
             remainingDistance.SetText("");
             //remainingDuration.SetText("");
             return;
