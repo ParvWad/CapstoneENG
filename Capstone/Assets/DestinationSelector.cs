@@ -1,61 +1,48 @@
-using UnityEngine;
-using UnityEngine.UI;
-using System.Collections.Generic;
+// using UnityEngine;
+// using UnityEngine.UI;
+// using System.Collections.Generic;
 
-public class DestinationSelector : MonoBehaviour
-{
-    public Dropdown destinationDropdown;
-    private Dictionary<string, Transform> destinationMap = new Dictionary<string, Transform>();
-    public Transform playerTransform;
+// public class DestinationSelector : MonoBehaviour
+// {
+//     public Dropdown destinationDropdown;
+//     public ARNavController navController;
+//     private List<POI> availablePOIs;
 
-    void Start()
-    {
-    // Automatically find the player GameObject by tag
-    GameObject player = GameObject.FindGameObjectWithTag("Player");
-    if (player != null)
-    {
-        playerTransform = player.transform;
-    }
-    else
-    {
-        Debug.LogError("Player GameObject not found! Make sure it has the 'Player' tag.");
-    }
+//     void Start()
+//     {
+//         PopulateDropdown();
+//         destinationDropdown.onValueChanged.AddListener(delegate { OnDestinationSelected(); });
+//     }
 
-    PopulateDropdown();
-    destinationDropdown.onValueChanged.AddListener(delegate { OnDestinationSelected(); });
-    }
+//     void PopulateDropdown()
+//     {
+//         destinationDropdown.ClearOptions();
 
-    void PopulateDropdown()
-    {
-        destinationDropdown.ClearOptions();
+//         // Find all POIs in the scene
+//         availablePOIs = new List<POI>(FindObjectsOfType<POI>());
+//         List<string> destinationNames = new List<string>();
 
-        GameObject[] destinations = GameObject.FindGameObjectsWithTag("Destination");
-        List<string> destinationNames = new List<string>();
+//         foreach (POI poi in availablePOIs)
+//         {
+//             destinationNames.Add(poi.poiName);
+//             Debug.Log("Added POI to dropdown: " + poi.poiName);
+//         }
 
-        foreach (GameObject dest in destinations)
-        {
-            destinationNames.Add(dest.name);
-            destinationMap[dest.name] = dest.transform;
-            Debug.Log("Added destination: " + dest.name);
-        }
+//         destinationDropdown.AddOptions(destinationNames);
+//     }
 
-        destinationDropdown.AddOptions(destinationNames);
-    }
-
-    public void OnDestinationSelected()
-    {
-        string selectedName = destinationDropdown.options[destinationDropdown.value].text;
-        Debug.Log("Selected destination: " + selectedName);
-
-        if (destinationMap.ContainsKey(selectedName))
-        {
-            Vector3 destinationPosition = destinationMap[selectedName].position;
-            Debug.Log("Destination position: " + destinationPosition);
-            ShowPath.instance.UpdatePath(playerTransform.position, destinationPosition);
-        }
-        else
-        {
-            Debug.LogError("Destination not found in map: " + selectedName);
-        }
-    }
-}
+//     public void OnDestinationSelected()
+//     {
+//         int selectedIndex = destinationDropdown.value;
+//         if (selectedIndex >= 0 && selectedIndex < availablePOIs.Count)
+//         {
+//             POI selectedPOI = availablePOIs[selectedIndex];
+//             Debug.Log("Selected destination: " + selectedPOI.poiName);
+//             navController.SetPOIForNavigation(selectedPOI);
+//         }
+//         else
+//         {
+//             Debug.LogError("Selected POI index out of range");
+//         }
+//     }
+// }
