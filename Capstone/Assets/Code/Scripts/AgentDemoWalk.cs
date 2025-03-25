@@ -73,7 +73,7 @@ public class AgentDemoWalk : MonoBehaviour
             SetEnabledOnChildComponents(augmentationTransform.GetChild(i), value);
     }
 
-
+    // when app is started set the agent as walking and not stopped
     void StartDemo()
     {
         isWalking = true;
